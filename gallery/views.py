@@ -19,7 +19,7 @@ def search_images(request):
         message = "You haven't searched yet"
         return render(request,"gallery/search.html",{"message":message})
 
-def filter_location(request,image_id):
+def filter_location(request,image_id):   
     try:
         location = Location.get_location()
         located_images = Image.objects.filter(image_location=image_id)
