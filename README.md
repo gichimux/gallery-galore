@@ -49,7 +49,7 @@ The different technologies that were used to develop this program include:
 ```
 
 ### Link to live site
-Here is a link to the live site 
+Here is a link to the live site [link](https://gallery99.herokuapp.com/)
 ### Contact Me
 If you have any suggestions, additions or modifications on this project you can reach me via my [email](gichimu.dev@gmail.com)
 
